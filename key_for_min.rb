@@ -3,7 +3,9 @@
 
 def key_for_min_value(name_hash)
   
+  array = []
+  
   name_hash.each { |key, value|
-      
+      if value
   }
 end
